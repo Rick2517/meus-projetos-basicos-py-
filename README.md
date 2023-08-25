@@ -1,3 +1,2 @@
-# meu-projeto
-
-Projeto básico de um código em python para fazer webscrapping
+# meus-projetos
+Projetos básicos em linguagem de programação python 
